@@ -1,0 +1,9 @@
+{
+    "projects": [
+      {
+        "name": "mi-frontend",
+        "root": "Frontend"
+      }
+    ]
+  }
+  
